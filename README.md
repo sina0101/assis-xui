@@ -13,5 +13,9 @@
 ======
 
 **راهنما**
-بعد از اجرای فایل با دستور python3 src.py
+بعد از اجرای فایل با دستور 
+python3 src.py
+
+=======
 [Screenshot from 2024-09-04 19-44-10](https://github.com/user-attachments/assets/19a8851b-f08d-4984-be3b-009b5692b2b7)
+=======
