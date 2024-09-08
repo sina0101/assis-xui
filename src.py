@@ -81,12 +81,12 @@ def start():
     print("|==============================    github : SINA0101  ============================|")
     print("+============================================================================+")
 
-    print ('1-add traffic for all active users')
-    print ('2-add time for all active users')
-    print ('3-add user ')
-    print ('4-delete user ')
-    print ('5-show all user')
-    print ('6-exit')
+    print ('1-Add traffic for all active users')
+    print ('2-Add time for all active users')
+    print ('3-Add ADMIN for panel ')
+    print ('4-Delete ADMIN for panel ')
+    print ('5-show all ADMIN')
+    print ('6-Exit')
     inp1=int(input('enter a number: '))
     if inp1 not in [1,2,3,4,5,6]:
         print ('please enter 1 or 2 or 3 or 4 or 5 or 6') 
